@@ -2,13 +2,14 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <bAuction Website (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/NicholasMourning/AuctionWebsite)
+- <b>[Auction Website](https://github.com/NicholasMourning/AuctionWebsite) </b>
+- <b>[Personal Portfolio](https://github.com/NicholasMourning/PersonalPortfolio) </b>
+
+  
 
 <h2> Certifications:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>[Test-Out Security Pro](https://github.com/NicholasMourning/TestOutSecurityPro) </b>
 
 
 <h2>📺 Popular YouTube Videos</h2>
