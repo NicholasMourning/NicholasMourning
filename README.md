@@ -2,8 +2,14 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>[Auction Website](https://github.com/NicholasMourning/AuctionWebsite) </b>
-- <b>[Personal Portfolio](https://github.com/NicholasMourning/PersonalPortfolio) </b>
+- <b>Full Stack Web App (HTML/CSS, JavaScript, VS Code, Github, Node.js, Express.js, EJS, MVC, MongoDB, Mongoose, AWS, Postman)</b>
+  - [Pearl](https://github.com/NicholasMourning/pearl)
+
+- <b>Backend Web App (Java, VS Code, Spring, SQL, Postman, Docker)</b>
+  - [Auction Website Backend](https://github.com/NicholasMourning/AuctionWebsite) 
+
+- <b>Data Mining (Python, Juypter Notebook, Numpy, Pandas, Matplot, Seaborn, Scikit-Learn, Matplotlib)</b>
+  - [Data Science Portfolio](https://nicholasmourning.github.io/DataSciencePortfolio/) 
 
   
 
