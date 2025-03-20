@@ -15,8 +15,8 @@
 
 <h2> Certifications:</h2>
 
-- <b>[Test-Out Security Pro](https://github.com/NicholasMourning/TestOutSecurityPro) </b>
-
+- <b>Test-Out Security Pro
+  - [Security Professional Certification](https://github.com/NicholasMourning/TestOutSecurityPro) 
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
